@@ -1,0 +1,7 @@
+{
+  "name": "node-js-book",
+  "version": "1.0.0",
+  "dependencies": {
+    "hexy": "^0.3.4"
+  }
+}
